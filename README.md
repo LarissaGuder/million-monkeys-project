@@ -6,7 +6,7 @@ Projeto para futuramente estudar hadoop
 
 fork do https://code.google.com/archive/p/million-monkeys-project/
 
-
+https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1740-9713.2011.00533.x
 
 Hadoop project to randomly recreate Shakespeare
 
